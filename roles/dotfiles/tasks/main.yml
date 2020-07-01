@@ -1,5 +1,0 @@
----
-
-- include_tasks: install_dotfiles.yml
-- include_tasks: download_wallpaper.yml
-- include_tasks: install_packages.yml
