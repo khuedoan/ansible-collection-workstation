@@ -1,0 +1,14 @@
+- name: Install tools
+  become: yes
+  pacman:
+    name:
+      - aria2
+      - mpv
+      - translate-shell
+      - tree
+      - unrar
+      - unzip
+      - youtube-dl
+      - zathura
+      - zathura-pdf-mupdf
+    state: present
