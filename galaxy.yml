@@ -1,0 +1,11 @@
+namespace: khuedoan
+name: workstation
+description: Workstation Collection for Ansible
+version: 0.1.0
+readme: README.md
+authors:
+  - Khue Doan (https://khuedoan.com)
+dependencies:
+  kewlfft.aur: "*"
+license_file: LICENSE.md
+repository: https://github.com/khuedoan/ansible-collection-workstation
