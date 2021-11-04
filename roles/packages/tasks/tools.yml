@@ -9,6 +9,7 @@
       - glances
       - jq
       - mpv
+      - posix
       - translate-shell
       - tree
       - unrar
