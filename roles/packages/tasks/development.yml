@@ -8,6 +8,7 @@
       - kubectl
       - kustomize
       - rust
+      - rust-src
       - terraform
       - terragrunt
     state: present
