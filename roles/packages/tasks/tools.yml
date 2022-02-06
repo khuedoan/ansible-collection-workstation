@@ -5,8 +5,8 @@
       - ansible
       - aria2
       - bitwarden-cli
+      - btop
       - github-cli
-      - glances
       - jq
       - mpv
       - posix
